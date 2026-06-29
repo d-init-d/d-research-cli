@@ -1,0 +1,6 @@
+[submodule "runtime/d-research-skill"]
+	path = runtime/d-research-skill
+	url = https://github.com/d-init-d/d-research-skill.git
+[submodule "runtime/aleph"]
+	path = runtime/aleph
+	url = https://github.com/d-init-d/aleph.git

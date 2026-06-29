@@ -1,0 +1,19 @@
+.d-research/
+research-output/
+simulation/
+kb/
+*.exe
+dist/
+bin/
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
+node_modules/
+__pycache__/
+*.zip
+
+# IDE / agent tooling — out of repo scope
+mcps/
+terminals/

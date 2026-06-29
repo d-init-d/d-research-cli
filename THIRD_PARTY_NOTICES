@@ -1,0 +1,11 @@
+D Research CLI bundles or integrates the following third-party components:
+
+- github.com/voocel/agentcore — Apache-2.0 (agent orchestration)
+- github.com/voocel/litellm — via agentcore/llm
+- github.com/charmbracelet/bubbletea, bubbles, lipgloss — MIT
+- github.com/zalando/go-keyring — MIT
+- d-research-skill (pinned runtime source) — see runtime/d-research-skill/LICENSE
+- Aleph engine/schema/templates (pinned, no full KB) — see runtime/aleph/LICENSE
+- ainovel-cli derived TUI patterns — see NOTICE in docs/AINOVEL_DERIVED.md
+
+Release ZIP materializes pinned runtime source, schemas, templates, and license notices.
