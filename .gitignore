@@ -1,7 +1,7 @@
-.d-research/
-research-output/
-simulation/
-kb/
+/.d-research/
+/research-output/
+/simulation/
+/kb/
 *.exe
 dist/
 bin/
